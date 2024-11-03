@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou ivan!
+# 👋 Olá, me chamo ivan!
 
 - 👀 Estou interessado em desenvolvimento web, aprendizado de máquina e ciência de dados.
 - 🌱 Atualmente, estou aprendendo JavaScript, React e como usar bancos de dados.
